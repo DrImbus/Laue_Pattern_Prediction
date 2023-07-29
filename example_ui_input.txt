@@ -1,0 +1,20 @@
+<div class="input-section">
+    <span class="section-headline">
+        Lattice Orientation
+    </span>
+    <div class="input-container">
+        <span class="input-name">&#934;: </span>
+        <input type="text">
+        <span class="input-unit">&#176;</span>
+    </div>
+    <div class="input-container">
+        <span class="input-name">&#935;: </span>
+        <input type="text">
+        <span class="input-unit">&#176;</span>
+    </div>
+    <div class="input-container">
+        <span class="input-name">&#937;: </span>
+        <input type="text">
+        <span class="input-unit">&#176;</span>
+    </div>
+</div>
